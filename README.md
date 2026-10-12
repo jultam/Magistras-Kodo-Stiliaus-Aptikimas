@@ -1,11 +1,11 @@
 
-> Darbo vadovas asist. Šarūnas Packevičius
+> <i>Darbo vadovas <b>asist. Šarūnas Packevičius</b></i>
 >
-> Užsakovas asist. Šarūnas Packevičius
+> <i>Užsakovas <b>asist. Šarūnas Packevičius</b></i>
 >
-> Užsakovo įmonė Kauno technologijos Universitetas
+> <i>Užsakovo įmonė <b>Kauno technologijos Universitetas</b></i>
 >
-> Kūrėjas Julius Tamašas
+> <i>Kūrėjas <b>Julius Tamašas</b></i>
 ---
 ## Turinys
 {: .no_toc}
