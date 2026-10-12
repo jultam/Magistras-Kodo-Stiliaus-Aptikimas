@@ -1,12 +1,14 @@
-# Magistras-Kodo-Stiliaus-Aptikimas
 
+> Darbo vadovas asist. Šarūnas Packevičius
+>
+> Užsakovas asist. Šarūnas Packevičius
+>
+> Užsakovo įmonė Kauno technologijos Universitetas
+>
+> Kūrėjas Julius Tamašas
 
-this is a test
-
-multiple ones
-
-surprise third test line!
-
+## Turinys
+{: .no_toc}
 {:toc}
 
 ## Anotacija
