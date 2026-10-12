@@ -6,6 +6,7 @@
 > <i>Užsakovo įmonė <b>Kauno technologijos Universitetas</b></i>
 >
 > <i>Kūrėjas <b>Julius Tamašas</b></i>
+
 ---
 ## Turinys
 {: .no_toc}
