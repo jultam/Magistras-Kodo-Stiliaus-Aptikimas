@@ -6,3 +6,5 @@ this is a test
 multiple ones
 
 surprise third test line!
+
+{:toc}
