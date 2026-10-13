@@ -1,3 +1,7 @@
+---
+layout: default
+title: Kodo vienodo stiliaus aptikimas
+---
 
 > <i>Darbo vadovas <b>asist. Šarūnas Packevičius</b></i>
 >
