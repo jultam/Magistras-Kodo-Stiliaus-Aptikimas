@@ -1,0 +1,19 @@
+---
+---
+
+@import "just-the-docs";
+
+#markdown-toc {
+  &, ul, ol {
+    list-style: none !important;
+    counter-reset: jtd-toc-cnt !important;
+    padding-left: 1.2rem !important;
+  }
+  li {
+    counter-increment: jtd-toc-cnt !important;
+    &::before {
+      content: counters(jtd-toc-cnt, ".") " " !important;
+      font-weight: bold !important;
+    }
+  }
+}
