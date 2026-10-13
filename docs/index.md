@@ -1,7 +1,3 @@
----
-title: Home
-layout: home
----
 
 > <i>Darbo vadovas <b>asist. Šarūnas Packevičius</b></i>
 >
