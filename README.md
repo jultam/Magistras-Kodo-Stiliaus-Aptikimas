@@ -33,6 +33,11 @@ Keywords: code style, style rules, neural network, algorithm, text analysis
 ## I semestras
 ### T000M241 Tiriamasis projektas
 #### Atsiskaitymų resursai
+* (2026-09-16) Įkelti CV
+* (2026-10-14) Įkelti projekto temos formuluotę
+* (2026-10-14) Įkelti IS duomenis
+
+
 
 ---
 ## II semestras
