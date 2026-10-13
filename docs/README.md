@@ -42,9 +42,9 @@ The tool must have a graphical user interface. The user must be able to submit t
 ## I semestras
 ### T000M241 Tiriamasis projektas
 #### Atsiskaitymų resursai
-* (2026-09-16) [Įkelti CV](documents/Julius_Tamašas_CV_LT.pdf)
-* (2026-10-14) [Įkelti projekto temos formuluotę](documents/tamašas_tema.docx)
-* (2026-10-14) [Įkelti IS duomenis](documents/tamašas_IS_duomenys.docx)
+* (2026-09-16) [Kūrėjo CV](documents/Julius_Tamašas_CV_LT.pdf)
+* (2026-10-14) [Projekto temos formuluotė](documents/tamašas_tema.docx)
+* (2026-10-14) [IS duomenys](documents/tamašas_IS_duomenys.docx)
 
 #### Literatūros šaltiniai
 
