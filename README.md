@@ -26,6 +26,7 @@ Raktiniai žodžiai: kodo stilius, stiliaus taisyklės, neuroninis tinklas, algo
 The aim of this project is to develop a tool that analyzes the source code of a given project and determines whether the code adheres to a unified code style. The created system identifies the characteristics of the code‘s style and verifies whether all code elements use the same style using machine learning algorithms. The tool‘s value comes from the risk that arises when multiple developers work on the same project, they may all use their own rules and styles when writing code. This complicates code interpretation, collaborative work and maintenance. This project‘s tool will mitigate that risk.
 
 The tool must have a graphical user interface. The user must be able to submit their own code and see the tool‘s findings on the code style variations. The system must use a machine learning solution to identify the style of a code element. The system must have a function that allows the user to further train the model with new data and upload an already trained model. Work on the project includes investigating code styles and their differences. The tool must be able to read multiple code files at once from the subject project‘s folder during analysis. Calculation times for code analysis should not exceed five minutes.
+
 Keywords: code style, style rules, neural network, algorithm, text analysis 
 
 ---
