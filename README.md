@@ -46,13 +46,11 @@ The tool must have a graphical user interface. The user must be able to submit t
 * (2026-10-14) [Įkelti projekto temos formuluotę](documents/tamašas_tema.docx)
 * (2026-10-14) [Įkelti IS duomenis](documents/tamašas_IS_duomenys.docx)
 
+#### Literatūros šaltiniai
 
 
 ---
 ## II semestras
-### Test
-#### lorem
-*alaala
 
 ---
 ## III semestras
