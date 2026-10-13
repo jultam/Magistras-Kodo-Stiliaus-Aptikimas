@@ -2,5 +2,9 @@ title: Projekto kodo vieningo stiliaus aptikimas ir jo pastovumo tikrinimas
 description: Magistro projekto informacinė sistema
 theme: jekyll-theme-minimal
 
-url: https://jultam.github.io
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
 
+gh_edit_link: true
+gh_edit_link_text: "Peržiūrėkite projektą ant GitHub"
+gh_edit_repository: "https://github.com/jultam/Magistras-Kodo-Stiliaus-Aptikimas"
