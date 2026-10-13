@@ -1,0 +1,19 @@
+#markdown-toc {
+  &, ol {
+    list-style-type: none;
+    counter-reset: jtd-toc-counter;
+    padding-left: 1.2rem; 
+  }
+
+  li {
+    counter-increment: jtd-toc-counter;
+    position: relative;
+
+    &::before {
+      content: counters(jtd-toc-counter, ".") ". ";
+      font-weight: 600;
+      color: var(--text-color);
+      margin-right: 0.4rem;
+    }
+  }
+}
