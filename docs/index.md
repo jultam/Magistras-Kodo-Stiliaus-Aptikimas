@@ -3,33 +3,62 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+> <i>Darbo vadovas <b>asist. Šarūnas Packevičius</b></i>
+>
+> <i>Darbo vadovo el.pašto adresas <b>sarunas.packevicius@ktu.lt</b></i>
+>
+> <i>Užsakovas <b>asist. Šarūnas Packevičius</b></i>
+>
+> <i>Užsakovo įmonė <b>Kauno technologijos Universitetas</b></i>
+>
+> <i>Kūrėjas <b>Julius Tamašas</b></i>
+>
+> <i>Kūrėjo el.pašto adresas <b>jultam1@ktu.lt</b></i>
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+---
+## Turinys
+{: .no_toc }
 
-More specifically, the created site:
+1. TOC
+{:toc}
+---
+## Anotacija
+### Projekto kodo vieningo stiliaus aptikimas ir jo pastovumo tikrinimas
+{: .no_toc }
+Darbo tikslas yra sukurti įrankį, kuris analizuoja pateikiamo projekto kodą ir nustato ar visas kodas laikosi vienodo stiliaus. Galutinė sistema žino kaip identifikuoti stiliaus požymius ir pasitelkiant mašininio mokymosi algoritmais patikrina ar visi kodo požymiai yra vieningo stiliaus. Įrankio nauda yra tai, kad keliems žmonėms dirbant ant vieno projekto kyla rizika kad jie laikysis skirtingo stiliaus ir taisyklių rašant kodą, kas komplikuoja kodo interpretavimo procesą ir pasunkina bendradarbiavimą ir kodo taisymą. Šio projekto kuriamas įrankis sumažins minėtą riziką.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+Kuriamas įrankis turi turėti grafinę sąsają. Naudotojas turi galėti pateikti savo kodą ir matyti įrankio pateiktas pastabas dėl kodo stiliaus skirtumų. Sistema turi naudoti mašininio mokymosi sprendimą identifikuojant kodo elemento stilių. Sistema turi turėti funkciją, kuri leistų naudotojui toliau mokyti modelį naujais duomenimis ir leistų naudotojui įkelti jau apmokytą modelį. Darbo metu tiriami kodo stiliai ir kaip jie skiriasi. Įrankis turi gebėti perskaityti kelis kodo failus vienu metu analizuojamo projekto aplanke. Skaičiavimo laikas analizuojant kodą turėtų neviršyti penkių minučių.
+ 
+<b>Raktiniai žodžiai:</b> kodo stilius, stiliaus taisyklės, neuroninis tinklas, algoritmas, teksto analizė
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+---
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### Detection of a Unified Code Style in a Project and Verification of its Consistency
+{: .no_toc }
 
-To get started with creating a site, simply:
+The aim of this project is to develop a tool that analyzes the source code of a given project and determines whether the code adheres to a unified code style. The created system identifies the characteristics of the code‘s style and verifies whether all code elements use the same style using machine learning algorithms. The tool‘s value comes from the risk that arises when multiple developers work on the same project, they may all use their own rules and styles when writing code. This complicates code interpretation, collaborative work and maintenance. This project‘s tool will mitigate that risk.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+The tool must have a graphical user interface. The user must be able to submit their own code and see the tool‘s findings on the code style variations. The system must use a machine learning solution to identify the style of a code element. The system must have a function that allows the user to further train the model with new data and upload an already trained model. Work on the project includes investigating code styles and their differences. The tool must be able to read multiple code files at once from the subject project‘s folder during analysis. Calculation times for code analysis should not exceed five minutes.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+<b>Keywords:</b> code style, style rules, neural network, algorithm, text analysis 
 
-----
+---
+## I semestras
+### T000M241 Tiriamasis projektas
+#### Atsiskaitymų resursai
+* (2026-09-16) [Įkelti CV](documents/Julius_Tamašas_CV_LT.pdf)
+* (2026-10-14) [Įkelti projekto temos formuluotę](documents/tamašas_tema.docx)
+* (2026-10-14) [Įkelti IS duomenis](documents/tamašas_IS_duomenys.docx)
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+#### Literatūros šaltiniai
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+
+---
+## II semestras
+
+---
+## III semestras
+
+---
+## IV semestras
+
