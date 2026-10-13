@@ -25,7 +25,7 @@ Darbo tikslas yra sukurti įrankį, kuris analizuoja pateikiamo projekto kodą i
 
 Kuriamas įrankis turi turėti grafinę sąsają. Naudotojas turi galėti pateikti savo kodą ir matyti įrankio pateiktas pastabas dėl kodo stiliaus skirtumų. Sistema turi naudoti mašininio mokymosi sprendimą identifikuojant kodo elemento stilių. Sistema turi turėti funkciją, kuri leistų naudotojui toliau mokyti modelį naujais duomenimis ir leistų naudotojui įkelti jau apmokytą modelį. Darbo metu tiriami kodo stiliai ir kaip jie skiriasi. Įrankis turi gebėti perskaityti kelis kodo failus vienu metu analizuojamo projekto aplanke. Skaičiavimo laikas analizuojant kodą turėtų neviršyti penkių minučių.
  
-Raktiniai žodžiai: kodo stilius, stiliaus taisyklės, neuroninis tinklas, algoritmas, teksto analizė
+<b>Raktiniai žodžiai:</b> kodo stilius, stiliaus taisyklės, neuroninis tinklas, algoritmas, teksto analizė
 
 ---
 
@@ -36,7 +36,7 @@ The aim of this project is to develop a tool that analyzes the source code of a 
 
 The tool must have a graphical user interface. The user must be able to submit their own code and see the tool‘s findings on the code style variations. The system must use a machine learning solution to identify the style of a code element. The system must have a function that allows the user to further train the model with new data and upload an already trained model. Work on the project includes investigating code styles and their differences. The tool must be able to read multiple code files at once from the subject project‘s folder during analysis. Calculation times for code analysis should not exceed five minutes.
 
-Keywords: code style, style rules, neural network, algorithm, text analysis 
+<b>Keywords:</b> code style, style rules, neural network, algorithm, text analysis 
 
 ---
 ## I semestras
