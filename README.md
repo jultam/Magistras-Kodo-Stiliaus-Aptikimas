@@ -44,12 +44,15 @@ The tool must have a graphical user interface. The user must be able to submit t
 #### Atsiskaitymų resursai
 * (2026-09-16) [Įkelti CV](documents/Julius_Tamašas_CV_LT.pdf)
 * (2026-10-14) [Įkelti projekto temos formuluotę](documents/tamašas_tema.docx)
-* (2026-10-14) Įkelti IS duomenis
+* (2026-10-14) [Įkelti IS duomenis](documents/tamašas_IS_duomenys.docx)
 
 
 
 ---
 ## II semestras
+### Test
+#### lorem
+*alaala
 
 ---
 ## III semestras
