@@ -2,4 +2,10 @@ title: Projekto kodo vieningo stiliaus aptikimas ir jo pastovumo tikrinimas
 description: Magistro projekto informacinė sistema
 theme: jekyll-theme-minimal
 
-show_downloads: true
+baseurl: "/Magistras-Kodo-Stiliaus-Aptikimas" # Must match your repo name exactly with a leading slash
+url: "https://jultam.github.io"
+
+github:
+  is_project_page: true
+  repository_url: "https://github.com"
+  repository_name: "Magistras-Kodo-Stiliaus-Aptikimas"
