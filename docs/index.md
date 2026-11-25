@@ -49,6 +49,7 @@ The tool must have a graphical user interface. The user must be able to submit t
 * (2026-09-16) [Kūrėjo CV](documents/Julius_Tamašas_CV_LT.pdf)
 * (2026-10-14) [Projekto temos formuluotė](documents/tamašas_tema.docx)
 * (2026-10-14) [IS duomenys](documents/tamašas_IS_duomenys.docx)
+* (2026-11-25) [Literatūros analizė](documents/Julius_Tamašas_Analizė.pdf)
 
 #### Literatūros šaltiniai
 
